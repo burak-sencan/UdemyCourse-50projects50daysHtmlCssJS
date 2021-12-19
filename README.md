@@ -1,2 +1,3 @@
-### 50_Projects_In_50_Days_HTML_CSS_JavaScript
+### I'm following this udemy course.
+### 50 Projects In 50 Days HTML CSS JavaScript 
 ### https://www.udemy.com/course/50-projects-50-days/
