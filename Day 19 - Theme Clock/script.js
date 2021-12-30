@@ -53,7 +53,7 @@ function setTime() {
  console.log(minutes)
   
   hourElement.style.transform = `translate(-50%, -100%) rotate(${scale(hours,0,11,0,360)}deg)`;
-  minuteElement.style.transform = `translate(-50%, -100%) rotate(${scale(minuteElement,0,11,0,360)}deg)`;
+  minuteElement.style.transform = `translate(-50%, -100%) rotate(${scale(minutes,0,11,0,360)}deg)`;
   secondElement.style.transform = `translate(-50%, -100%) rotate(${scale(seconds,0,59,0,360)}deg)`;
   
   console.log(secondElement)
