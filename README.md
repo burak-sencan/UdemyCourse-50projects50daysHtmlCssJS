@@ -1,3 +1,2 @@
-### I'm following this udemy course.
-### 50 Projects In 50 Days HTML CSS JavaScript 
+### I'm completed this udemy course.
 ### https://www.udemy.com/course/50-projects-50-days/
